@@ -1,0 +1,2 @@
+0 Patient on a stretcher
+1 Patient on a wheelchair
